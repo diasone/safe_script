@@ -1,0 +1,7 @@
+### ultimate safe script TODOs
+
+* have an idea for menu
+* what more features do we need
+* how do we want to handle the program input
+* a name is needed
+* so much more...
